@@ -46,8 +46,13 @@ p{
   padding: 40px;
   border-radius: 6px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
-  margin: 16px 16px;
+  margin: 12px 12px;
   text-align: center;
+}
+
+#social{
+  padding: 30px;
+  margin: 8px 8px;
 }
 
 .profile-pic {
@@ -67,9 +72,8 @@ a {
   text-decoration: none;
 
   position: relative;
-  padding: 10px 20px;
+  padding: 8px 8px;
   border: none;
-  background-color: #333;
   color: rgba(209,209,209);
   cursor: pointer;
   overflow: hidden;
